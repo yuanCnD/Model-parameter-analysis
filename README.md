@@ -2,7 +2,7 @@ Analysis filter parameters statistical characteristics in order to accelerate ve
 ======
 Illustration
 ------
-This work is about channel pruning's prework using mxnet, accelerate works will coming soon.
+This work is about channel pruning's prework using mxnet, accelerate works will come soon.
 
 Different layers statistical characteristics in vgg16_reduced net.
 ------
